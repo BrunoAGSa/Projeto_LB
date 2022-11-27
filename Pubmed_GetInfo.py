@@ -11,7 +11,8 @@ record = Entrez.read(handle)    # ler os resultaados
 lista_ids = record["IdList"]   # obter os ids
 
 handle = Entrez.efetch(db = "pubmed", id = lista_ids, rettype = "medline", retmode = "text")   #handle vai devolver varios resultados
-records = Medline.parse(handle)                                                             # dai usar o parse aqui 
+records = Medline.parse(handle) # dai usar o parse aqui 
+
 print()   # linha branca 
 for record in records:
     print("Titulo:", record.get("TI", "Vazio"))     # Print segue esta estrutura (abaixo)                                       
