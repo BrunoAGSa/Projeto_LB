@@ -6,7 +6,7 @@ from Bio.Data import CodonTable
 import Blast
 
 # Importar a sequência
-record = SeqIO.read("PPAR.gb", "gb")
+record = SeqIO.read("ARL15.gb", "gb")
 ppar = record.seq
 
 print("Explorar a informação associada ao ficheiro GeneBank do gene PPAR gamma")
