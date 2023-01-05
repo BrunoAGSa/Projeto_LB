@@ -1,0 +1,101 @@
+>XP_011541800.1 ADP-ribosylation factor-like protein 15 isoform X1 [Homo sapiens]
+MSPL--------------------------------------------------------
+------------------------------------GSRRARWPPALRSSLFAFFLWDRM
+PLGFFLPQPAGKK--------------NAPFIPS--------------------LTPDFA
+E---WI----------------------------------------RRMSECIQISF---
+----------AVCRIGIYT-----------------------CFRALCCKGPPPARPEYD
+LVCIGLTGSGKTSLLSKLCSESPDNVVSTTGFSIKAVPFQNAILNVKELGGADNIRKYWS
+RYYQGSQGVIFVLDSASSEDDLEAARNELHSALQHPQLCTLPFLILA------------N
+HQDKPAARSVQEI--------------KKYFELEPLARGKRWILQPCSLDDMDALKDSFS
+QLINLLEEKDHEAVRM
+>XP_016865087.1 ADP-ribosylation factor-like protein 15 isoform X4 [Homo sapiens]
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------MSECIQISF---
+----------AVCRIGIYT-----------------------CFRALCCKGPPPARPEYD
+LVCIGLTGSGKTSLLSKLCSESPDNVVSTTGFSIKAVPFQNAILNVKELGGADNIRKYWS
+RYYQGSQGVIFVLDSASSEDDLEAARNELHSALQHPQLCTLPFLILA------------N
+HQDKPAARSVQEI--------------KKYFELEPLARGKRWILQPCSLDDMDALKDSFS
+QLINLLEEKDHEAVRM
+>XP_030671625.1 ADP-ribosylation factor-like protein 15 isoform X1 [Nomascus leucogenys]
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------MSECIQISF---
+----------AVCRIGIYT-----------------------CFRALCCKGPPPARPEYD
+LVCIGLTGSGKTSLLSKLCSESPDNIVSTTGFSIKAVPFQNAILNVKELGGADNIRKYWS
+RYYQGSQGVIFVLDSASSEDDLEAARNELHSALQHPQLCTLPFLILA------------N
+HQDKPAARSVQEI--------------KKYFELEPLARGKRWILQPCSLDDMDALKDSFS
+QLINLLEEKDHEAIRM
+>XP_007970464.1 ADP-ribosylation factor-like protein 15 isoform X2 [Chlorocebus sabaeus]
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------MSECIQISF---
+----------AVCRIGIYT-----------------------CFRALCCKGPPPARPEYD
+LVCIGLTGSGKTSLLSKLCSESPENVVSTTGFSIKAVPFQNAILNVKELGGADNIRKYWS
+RYYQGSQGVIFVLDSASSEDDLEAARNELHSALQHPQLCTLPFLILA------------N
+HQDKPAARSVQEI--------------KKYFELEPLARGKRWILQPCSLDDMDALKDSFS
+QLINLLEEKDHEAIRM
+>XP_011770220.1 ADP-ribosylation factor-like protein 15 isoform X5 [Macaca nemestrina]
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------MSECIQISF---
+----------AVCRVGIYT-----------------------CFRALCCKGPPPARPEYD
+LVCIGLTGSGKTSLLSKLCSESPENVVSTTGFSIKAVPFQNAILNVKELGGADNIRKYWS
+RYYQGSQGVIFVLDSASSEDDLEAARNELHSALQHPQLCTLPFLILA------------N
+HQDKPAARSVQEI--------------KKYFELEPLARGKRWILQPCSLDDMDALKDSFS
+QLINLLEEKDHEAIRM
+>XP_037654703.1 ADP-ribosylation factor-like protein 15 isoform X3 [Choloepus didactylus]
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------MSECIQISF---
+----------AVCRIGIYT-----------------------CFRALCCKGPPPARPEYD
+LVCIGLTGSGKTSLLSKLCSESPENVVSTTGFSIKAVPFQNAILNVKELGGADNIRKYWS
+RYYQGSQGVIFVLDSASSEDDLETARNELHSALQHPQLCTLPFLILA------------N
+HQDKPAARSVQEV--------------KKYFELEPLARGKRWILQPCSLDDMDALKDSFS
+QLINLLEEKDHEAVRM
+>XP_006149076.1 ADP-ribosylation factor-like protein 15 isoform X1 [Tupaia chinensis]
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------MSECIQISF---
+----------AVCRIGIYT-----------------------CFRALCCKGPPPARPEYD
+LVCIGLTGSGKTSLLSKLCSESPENVVSTTGFSIKAVPFQNAILNVKELGGADNIRKYWS
+RYYQGSQGVIFVLDSASSEDDLETARNELHSALQHPQLCTLPFLILA------------N
+HQDKPAARSVQEI--------------KKYFELEPLARGKRWILQPCSLDDMDALKDSFS
+QLINLLEEKDHEAIRM
+>XP_017825412.2 ADP-ribosylation factor-like protein 15 isoform X1 [Callithrix jacchus]
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------MSECIQISF---
+----------AVCRIGIYT-----------------------CFRALCCKGPPPARPEYD
+LVCIGLTGSGKTSLLSKLCSESPENVVSTTGFSIKAVPFQNAILNVKELGGADNIRKYWS
+RYYQGSQGVIFVLDSASSEDDLEAARNELHSALQHPQLCTLPFLILA------------N
+HQDKPAARSVQEI--------------KKYFELEPLARGKRWILQPCSLDDMDALKDSFS
+QLINLLEEKDHDAVRM
+>XP_012304995.1 ADP-ribosylation factor-like protein 15 isoform X1 [Aotus nancymaae]
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------MSECIQISF---
+----------AVCRIGIYT-----------------------CFRALCCKGPPPARPEYD
+LVCIGLTGSGKTSLLSKLCSESPENVVSTTGFSIKAVPFQNAILNVKELGGADNIRKYWS
+RYYQGSQGVIFVLDSASSEDDLESARNELHSALQHPQLCTLPFLILA------------N
+HQDKPAARSVQEI--------------KKYFELEPLARGKRWILQPCSLDDMDALKDSFS
+QLINLLEEKDHDAIRM
+>XP_032001099.1 ADP-ribosylation factor-like protein 15 isoform X1 [Hylobates moloch]
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------MSECIQISF---
+----------AVCRIGIYT-----------------------CFRALCCKGPPPARPEYD
+LVCIGLTGSGKTTLLSKLCSESPDNIVSTTGFSIKAVPFQNAILNVKELGGADNIRKYWS
+RYYQGSQGVIFVLDSASSEDDLEAARNELHSALQHPQLCTLPFLILA------------N
+HQDKPAARSVQEI--------------KKYFELEPLARGKRWILQPCSLDDVDALKDSFS
+QLINLLEEKDHEAIRM
+
